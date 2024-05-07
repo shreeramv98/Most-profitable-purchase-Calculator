@@ -1,5 +1,7 @@
 # Most-profitable-purchase-Calculator
 
+In this project, I created a versatile Python-based web application to streamline purchase decisions by analyzing promotions and combinations. By parsing input from .txt files containing purchase intentions and promotion information, the program calculates the most cost-effective payment plan. Leveraging Python programming and web development skills, the solution delivers actionable insights, showcasing my ability to develop efficient solutions for complex decision-making scenarios.
+
 TASKS:
 
 Most profitable purchase.
